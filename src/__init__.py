@@ -1,0 +1,1 @@
+"""Batch image OCR tool."""

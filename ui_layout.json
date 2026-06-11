@@ -1,0 +1,41 @@
+{
+  "window_width": 980,
+  "window_height": 720,
+  "card_width": 860,
+  "card_height": 540,
+  "card_x_offset": -2,
+  "card_top_offset": -12,
+  "card_border_radius": 12,
+  "card_border_width": 1,
+  "card_padding_left": 30,
+  "field_x_offset": 150,
+  "path_field_width": 560,
+  "subfolder_field_width": 590,
+  "button_width": 104,
+  "button_gap": 12,
+  "start_button_width": 210,
+  "progress_gap_after_help": 145,
+  "progress_text_left_offset": -90,
+  "progress_text_width": 130,
+  "current_file_left_gap": 230,
+  "widgets": {
+    "start_button": {
+      "x": 307,
+      "y": 483,
+      "width": 210,
+      "height": 42
+    },
+    "progress_text": {
+      "x": 359,
+      "y": 433,
+      "width": 130,
+      "height": 23
+    },
+    "progress_bar": {
+      "x": 150,
+      "y": 463,
+      "width": 590,
+      "height": 10
+    }
+  }
+}
